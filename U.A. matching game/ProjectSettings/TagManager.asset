@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CARD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PAUSE
+  - START
+  - HOWTO
+  - TITLE
+  - DEKU
+  - OCHAKO
+  - KATSUKI
+  - TENYA
+  - NODEKU
+  - NOCHAKO
+  - MOMO
+  - SHOUTO
+  - MAT
+  - NONE
+  - ALLMIGHT
+  - AIZAWA
+  - DISAPPEAR
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
